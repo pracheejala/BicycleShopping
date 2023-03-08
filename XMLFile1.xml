@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>vivabikes_banner01.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>vivabikes_banner02.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>vivabikes_banner03.jpg</ImageUrl>
+  </Ad>
+  <Ad>
+    <ImageUrl>vivabikes_banner04.jpg</ImageUrl>
+  </Ad>
+  
+</Advertisements>
